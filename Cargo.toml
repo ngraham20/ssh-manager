@@ -8,4 +8,5 @@ edition = "2018"
 
 [dependencies]
 json = '0.12.4'
-term_size = '0.3.2'
+crossterm = "0.17"
+tui = { version = "0.10", default-features = false, features = ['crossterm'] }

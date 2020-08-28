@@ -1,6 +1,5 @@
 
 use json;
-use term_size;
 
 struct Window {
     window_height: usize,
