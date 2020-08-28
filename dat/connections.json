@@ -1,0 +1,20 @@
+{
+    "folderA": {
+        "subA": {
+            "cons": [
+                {
+                    "username": "user",
+                    "hostname": "host"
+                },
+                {
+                    "username": "user",
+                    "hostname": "host"
+                },
+                {
+                    "username": "user",
+                    "hostname": "host"
+                }
+            ]
+        }
+    }
+}
